@@ -1,4 +1,4 @@
-# If.jsx
+# If.jsx [![Build Status](https://travis-ci.org/rogeriopvl/if.jsx.svg?branch=master)](https://travis-ci.org/rogeriopvl/if.jsx)
 
 Simple if condition helper for JSX.
 
