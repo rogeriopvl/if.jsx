@@ -1,6 +1,6 @@
 {
   "name": "if.jsx",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple if condition helper for JSX",
   "main": "index.js",
   "scripts": {
