@@ -1,0 +1,29 @@
+{
+  "name": "if.jsx",
+  "version": "0.0.1",
+  "description": "Simple if condition helper for JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeriopvl/if.jsx.git"
+  },
+  "keywords": [
+    "jsx",
+    "react",
+    "if",
+    "condition",
+    "conditional"
+  ],
+  "author": "rogeriopvl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rogeriopvl/if.jsx/issues"
+  },
+  "homepage": "https://github.com/rogeriopvl/if.jsx#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
